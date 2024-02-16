@@ -1,0 +1,16 @@
+Index: coursera-test/site/index.html
+===================================================================
+diff --git a/coursera-test/site/index.html b/coursera-test/site/index.html
+deleted file mode 100644
+--- a/coursera-test/site/index.html	(revision b566d763fa616990f48f400653ce4e86897237bc)
++++ /dev/null	(revision b566d763fa616990f48f400653ce4e86897237bc)
+@@ -1,9 +0,0 @@
+-<!doctype html>
+-<html>
+-  <head> 
+-    <title>Title of the document</title>
+-  </head>
+-  <body>
+-    Ankita helped me to create this! thanks
+-  </body>
+-</html>
